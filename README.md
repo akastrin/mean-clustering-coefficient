@@ -8,4 +8,4 @@ This repository provides `R` and `Rcpp` implementation of the Kaiser's (2008) me
 
 ## References
 
-Kaiser, M. (2008). Mean clustering coefficient: The role of isolated nodes and leafs on clustering measures for small world networks. _New journal of Physics_, _10_, 083042. [https://doi.org/10.1088/1367-2630/10/8/083042]
+Kaiser, M. (2008). Mean clustering coefficient: The role of isolated nodes and leafs on clustering measures for small world networks. _New journal of Physics_, _10_, 083042. [https://doi.org/10.1088/1367-2630/10/8/083042](https://doi.org/10.1088/1367-2630/10/8/083042)
